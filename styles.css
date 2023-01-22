@@ -1,2 +1,16 @@
+es (13 sloc)  230 Bytes
 
+.holder{
+    border: 2px solid violet;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+.item{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 2px solid pink;
+}
 /* Your CSS Code here. */
